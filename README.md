@@ -9,6 +9,9 @@ Email : taeho.kim0218@gmail.com
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,sklearn)](https://skillicons.dev)
 
+## Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
+
 <!--
 **YohanDev99/YohanDev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
