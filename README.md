@@ -3,7 +3,7 @@ Name : 김태호 </br>
 Email : taeho.kim0218@gmail.com
 
 ## Education
-* 네이버 커넥트 재단 <DATA SCIENCE PROJECTS> 코칭 스터디 (2024.01 ~ 2024.02) </br>
+* 네이버 커넥트 재단 \<DATA SCIENCE PROJECTS> 코칭 스터디 (2024.01 ~ 2024.02) </br>
 * KOSA_빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성과정 (2024.03 ~ )
 
 ## Skills
