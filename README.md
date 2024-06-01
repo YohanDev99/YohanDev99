@@ -4,7 +4,7 @@ Email : taeho.kim0218@gmail.com
 
 ## Certification
 * 정보처리기사
-* SQL 개발자(SQLD*, SQL Developer)
+* SQL 개발자(SQLD : SQL Developer)
 * 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)
 * 파이썬프로그래밍활용능력 2급
 
